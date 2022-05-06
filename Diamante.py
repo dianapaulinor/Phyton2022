@@ -1,0 +1,7 @@
+Rect(0, 0, 400, 400, relleno=gradiente('azulPolvo', 'cianClaro', inicio='superior'))
+Polígono(100, 100, 60, 150, 200, 300, 340, 150, 300, 100, relleno=gradiente('blanco', 'azulClaro'), borde='negro', anchuraDeBorde=4)
+Polígono(200, 100, 125, 150, 200, 300,275, 150, relleno='azur', borde='negro', anchuraDeBorde=2)
+Línea(100, 100, 125, 150, relleno='negro', anchuraDeLínea=2)
+Línea(300, 100, 275, 150, relleno='negro', anchuraDeLínea=2)
+Línea(60, 150, 340, 150, relleno='negro', anchuraDeLínea=2)
+Estrella(265, 120, 15, 6, redondez=15, relleno='blanco')
